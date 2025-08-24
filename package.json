@@ -1,0 +1,20 @@
+{
+  "name": "udgbot-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "commands": "node src/utils/createCommands.js",
+    "test": "echo \"Error: no hay ninguna prueba en progreso\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dinamicka",
+  "license": "CC2.0",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.22.1",
+    "exports": "^0.0.1",
+    "generative-ai": "^0.1.4"
+  }
+}
