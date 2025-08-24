@@ -2,11 +2,12 @@
 
 ## Introducción
 
-El Bot de los tutoriales del canal de YouTube [Discord Bots](https://www.youtube.com/@DiscordBots), programado en Node.js, con el módulo "discord.js" v14.
+Este bot pertenece a Dinamicka, fue realizado para la comunidad [UNDERGAMES](https://www.undergams.net/), programado en Node.js, con el módulo "discord.js" v14.
 
 Este bot soporta Slash Commands/Comandos de Barra Diagonal.
+Además trae la funcionalidad de estar conectado con la API de GEMINI 
 
-Únete al servidor de soporte para ayuda o más información: https://discord.gg/nvaYNqJyeF.
+Únete al servidor de soporte para ayuda o más información: https://discord.gg/JJ6VYuyHRN.
 
 ## Configuración
 
