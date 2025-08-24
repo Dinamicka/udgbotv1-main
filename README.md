@@ -1,4 +1,4 @@
-# Prueba Bot
+# UDGBOT 2025 | by Dinamicka
 
 ## Introducción
 
